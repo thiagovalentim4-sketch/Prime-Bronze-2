@@ -1,0 +1,6 @@
+{
+  "name": "Prime Broze - Bronzeamento & Spa",
+  "description": "An elegant, interactive single-page application for the Prime Broze premium tanning salon, featuring dynamic booking, service details, and loyalty promotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
